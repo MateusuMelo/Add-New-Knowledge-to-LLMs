@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "ddd49a3d30ec41ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dab0527299cb868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6a7887917f2adb8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4931471b9a8f1255",
+    "type": "split",
+    "children": [
+      {
+        "id": "5351c8c1c4cb4a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc0fe75c56d9fb55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "4bdce7b01d4a8ba4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e4d951b5be790017",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "233561bee4bae4e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ae173cb732eb031",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746583a0e89df961",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parte1/Fix problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Fix problem"
+            }
+          },
+          {
+            "id": "9b32b3a650e4d1dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Parte1/Fix problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Fix problem"
+            }
+          },
+          {
+            "id": "c83a64f87f298e0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0dfc9f5abcb074da",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "47e743c5e9a5e804",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Parte1/Fix problem.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Fix problem"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "47e743c5e9a5e804",
+  "lastOpenFiles": [
+    "Parte 2/Light Customization LLMs.md",
+    "part3/Section3.pdf",
+    "Parte1/Fix problem.md",
+    "parte 4/Section4.pdf",
+    "Parte1/notebooks/01_basics_curation.ipynb",
+    "Parte1/notebooks/02_advanced_data_processing.ipynb",
+    "Parte1/notebooks/03_synthetic_data_generation_topics_and_subtopics.ipynb",
+    "Parte1/notebooks/04_synthetic_data_generation_questions_and_answers (1).ipynb",
+    "Parte1/notebooks/05_synthetic_data_generation_math_problems_with_solutions (1).ipynb",
+    "Parte1/notebooks",
+    "parte 4",
+    "Parte 2/Section2.pdf",
+    "Parte 2/Evaluation.md",
+    "Parte1/Nemo Curator.md",
+    "Bem-vindo.md"
+  ]
+}
