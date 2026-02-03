@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5dab0527299cb868",
+        "id": "30e6ce8bdb861f54",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a7887917f2adb8",
+            "id": "e2162a29ac028396",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4. RAG.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "4. RAG"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parte1/Fix problem.md",
+                "file": "Parte1/slide1_nvidia_add_knowledges.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Fix problem"
+              "title": "Links inversos para slide1_nvidia_add_knowledges"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parte1/Fix problem.md",
+                "file": "Parte1/slide1_nvidia_add_knowledges.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Fix problem"
+              "title": "Links de saída para slide1_nvidia_add_knowledges"
             }
           },
           {
@@ -152,17 +156,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parte1/Fix problem.md",
+                "file": "4. RAG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Fix problem"
+              "title": "Sumário de 4. RAG"
+            }
+          },
+          {
+            "id": "3b0c06947966a9f0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,25 +190,31 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47e743c5e9a5e804",
+  "active": "e2162a29ac028396",
   "lastOpenFiles": [
-    "Parte 2/Light Customization LLMs.md",
-    "part3/Section3.pdf",
-    "Parte1/Fix problem.md",
-    "parte 4/Section4.pdf",
-    "Parte1/notebooks/01_basics_curation.ipynb",
-    "Parte1/notebooks/02_advanced_data_processing.ipynb",
-    "Parte1/notebooks/03_synthetic_data_generation_topics_and_subtopics.ipynb",
-    "Parte1/notebooks/04_synthetic_data_generation_questions_and_answers (1).ipynb",
-    "Parte1/notebooks/05_synthetic_data_generation_math_problems_with_solutions (1).ipynb",
-    "Parte1/notebooks",
-    "parte 4",
-    "Parte 2/Section2.pdf",
-    "Parte 2/Evaluation.md",
-    "Parte1/Nemo Curator.md",
+    "5. Supervised Fine-Tuning.md",
+    "4. RAG.md",
+    "LLM Twin.md",
+    "imgs/Pasted image 20260123093531.png",
+    "imgs",
+    "imgs/Pasted image 20260122094046.png",
+    "NvidiaWorkshop/part3/Section3.pdf",
+    "NvidiaWorkshop/Parte 2/Section2.pdf",
+    "NvidiaWorkshop/Parte 2/Light Customization LLMs.md",
+    "NvidiaWorkshop/Parte 2/Evaluation.md",
+    "NvidiaWorkshop",
+    "NvidiaWorkshop/Parte1/slide1_nvidia_add_knowledges.pdf",
+    "NvidiaWorkshop/Parte1/Reducing LLM Training Costs via High-Quality Dataset Curation.md",
+    "NvidiaWorkshop/Parte1/Fix problem.md",
+    "NvidiaWorkshop/parte 4/Section4.pdf",
+    "NvidiaWorkshop/Parte1/notebooks/01_basics_curation.ipynb",
+    "NvidiaWorkshop/Parte1/notebooks/02_advanced_data_processing.ipynb",
+    "NvidiaWorkshop/Parte1/notebooks/03_synthetic_data_generation_topics_and_subtopics.ipynb",
+    "NvidiaWorkshop/Parte1/notebooks/04_synthetic_data_generation_questions_and_answers (1).ipynb",
     "Bem-vindo.md"
   ]
 }
