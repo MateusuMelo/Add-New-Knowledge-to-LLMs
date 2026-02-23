@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. RAG.md",
+                "file": "5. Supervised Fine-Tuning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. RAG"
+              "title": "5. Supervised Fine-Tuning"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. RAG.md",
+                "file": "5. Supervised Fine-Tuning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 4. RAG"
+              "title": "Sumário de 5. Supervised Fine-Tuning"
             }
           },
           {
@@ -196,8 +196,11 @@
   },
   "active": "e2162a29ac028396",
   "lastOpenFiles": [
-    "5. Supervised Fine-Tuning.md",
     "4. RAG.md",
+    "5. Supervised Fine-Tuning.md",
+    "imgs/Pasted image 20260203133004.png",
+    "imgs/Pasted image 20260203132755.png",
+    "imgs/Pasted image 20260203111540.png",
     "LLM Twin.md",
     "imgs/Pasted image 20260123093531.png",
     "imgs",
